@@ -39,12 +39,12 @@ Welcome! This repository contains the key documentation for using and integratin
   - Version: 1.0
   - Official link: [Link](https://docs.google.com/presentation/d/1mZEasXjsMlOKJKt5jRoWcZc2tCKtnH4T/edit?slide=id.p1#slide=id.p1)
   - Last updated: 15/06/2023
-- Web Component PSS-AB
+- Web Component PSS
   - Domain: Antimicrobial
   - Version: 0.0.1
   - Official link: [Link](https://www.npmjs.com/package/@smals-belgium-shared/shared-nihdi-pss-web-components)
   - Last updated: 19/08/2025
-- Registration Criteria	AB
+- Registration Criteria
   - Domain: Antimicrobial
   - Version: 1.0
   - Official link: [Published on RIZIV website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.riziv.fgov.be%2FSiteCollectionDocuments%2FPSS_Antimicrobial_Criteria_list_for_software_registration_Release_Version1_0.xlsx&data=05%7C02%7Cjeroen.dewilde%40riziv-inami.fgov.be%7C29c54d202af548bbacdb08dd9e0ca488%7C66c008a4b56549a993c9c1e64cad2e11%7C0%7C1%7C638840499977060738%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=S%2B1fqPZ8FWdWXEj2b0l89E1%2FvNpfEzHMp3UVYpEAQi0%3D&reserved=0)
