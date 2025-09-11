@@ -2,15 +2,50 @@
 Welcome! This repository contains the key documentation for using and integrating with PSS Project.
 
 ## Documentation & Resources
-- [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_A%2BR_API_Cookbook_v1.2.pdf)
+- [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_Cookbook_v1.2.pdf)
   - Domain: Antimicrobial, Radiology
   - Version: 1.2
-  - Last updated: 18/06/2025
-- [PSS Integration Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_A%2BR_Integration%20guide.pdf)
+  - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842118/PSS_API_Cookbook_v1.2.pdf)
+  - Last updated: 01/04/2025
+- [PSS Integration Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Integration%20guide_Fin.pdf)
   - Domain: Antimicrobial, Radiology
-  - Version: 1.0
-  - Last updated: 18/06/2025
-- [PSS WebComponents Cookbook Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_A_WebComponents_Cookbook_v1.pdf)
+  - Version: 1.4
+  - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842094/PSS%20Integration%20guide_Fin.pdf)
+  - Last updated: 13/05/2025
+- [PSS WebComponents Cookbook Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_WebComponents_Cookbook_v1.pdf)
   - Domain: Antimicrobial
   - Version: 1.0
-  - Last updated: 18/06/2025
+  - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842142/PSS_WebComponents_Cookbook_v1.pdf)
+  - Last updated: 30/04/2025
+- [PSS Indication Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_WebComponents_Cookbook_v1.pdf)
+  - Domain: Antimicrobial
+  - Version: 1.0
+  - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/476131352/indication_codes.xlsx)
+  - Last updated: 04/07/2025
+- API PSS 
+  - Domain: Antimicrobial, Radiology
+  - Version: 1.0
+  - Official link: [Link](https://portal.api.ehealth.fgov.be/api-details?apiId=a1977abb-7348-41bf-bd8f-3a7fc2f26e58&managerId=1&swaggerVersion=3.0&type=rest&usage=api&Itemid=171&catalogModuleId=120#methods)
+- FHIR Implementation Guide
+  - Domain: Antimicrobial, Radiology
+  - Version: 1.0
+  - Official link: [Published on eHealth](https://www.ehealth.fgov.be/standards/fhir/pss/artifacts.html)
+  - Last updated: 14/05/2025
+- Registration for FHIR Test Cases
+  - Domain: Antimicrobial, Radiology
+  - Official link: [Link](https://fhir-testserver.be/index.php/registration_form)
+- FHIR testing and procedures information	
+  - Domain: Antimicrobial, Radiology
+  - Version: 1.0
+  - Official link: [Link](https://docs.google.com/presentation/d/1mZEasXjsMlOKJKt5jRoWcZc2tCKtnH4T/edit?slide=id.p1#slide=id.p1)
+  - Last updated: 15/06/2023
+- Web Component PSS-AB
+  - Domain: Antimicrobial
+  - Version: 0.0.1
+  - Official link: [Link](https://www.npmjs.com/package/@smals-belgium-shared/shared-nihdi-pss-web-components)
+  - Last updated: 19/08/2025
+- Registration Criteria	AB
+  - Domain: Antimicrobial
+  - Version: 1.0
+  - Official link: [Published on RIZIV website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.riziv.fgov.be%2FSiteCollectionDocuments%2FPSS_Antimicrobial_Criteria_list_for_software_registration_Release_Version1_0.xlsx&data=05%7C02%7Cjeroen.dewilde%40riziv-inami.fgov.be%7C29c54d202af548bbacdb08dd9e0ca488%7C66c008a4b56549a993c9c1e64cad2e11%7C0%7C1%7C638840499977060738%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=S%2B1fqPZ8FWdWXEj2b0l89E1%2FvNpfEzHMp3UVYpEAQi0%3D&reserved=0)
+  - Last updated: 28/05/2025
