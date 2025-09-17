@@ -16,7 +16,7 @@ Welcome! This repository contains the key documentation for using and integratin
   - Domain: Antimicrobial
   - Version: 1.0
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842142/PSS_WebComponents_Cookbook_v1.pdf)
-  - Last updated: 30/04/2025
+  - Last updated: 17/09/2025
 - [PSS Indication Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_WebComponents_Cookbook_v1.pdf)
   - Domain: Antimicrobial
   - Version: 1.0
