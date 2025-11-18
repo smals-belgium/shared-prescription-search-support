@@ -1,6 +1,6 @@
 ### PSS registration form
-NL: [PSS Inschrijvingsformulier](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Inschrijvingsformulier_WebApplicatie.docx)
-FR: [PSS Formulaire d'inscription](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Formulaire%20d'inscription_ApplicationWeb.docx)
+- NL: [PSS Inschrijvingsformulier](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Inschrijvingsformulier_WebApplicatie.docx)
+- FR: [PSS Formulaire d'inscription](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Formulaire%20d'inscription_ApplicationWeb.docx)
 
 ### 1. Deadline for commissioning: **20/12/2025**  
 *(= 1 day before onboarding of 1st batch of GPs/practices under study KULeuven)*
