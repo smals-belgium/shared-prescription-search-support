@@ -1,6 +1,10 @@
 # shared-prescription-search-support
 Welcome! This repository contains the key documentation for using and integrating with PSS Project.
 
+# SSO Registration
+
+- [SSO Registration Deadline](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/SSO-Registration.md)
+
 # Integration Guide for **Shared NIHDI PSS Web Components**
 
 This document explains how to integrate and use the web components available in the package `@smals-belgium-shared/shared-nihdi-pss-web-components`.
