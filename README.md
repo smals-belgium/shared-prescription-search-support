@@ -7,13 +7,13 @@ Welcome! This repository contains the key documentation for using and integratin
 
 # Integration Guide for **Shared NIHDI PSS Web Components**
 
-This document explains how to integrate and use the web components available in the package `@smals-belgium-shared/shared-nihdi-pss-web-components`.
+This document explains how to integrate and use the web components available in the package [NPM package](https://www.npmjs.com/package/@smals-belgium-shared/shared-nihdi-pss-web-components).
 
 ---
 
 ## 1. Prerequisites: Obtain a valid eHealth OAuth token
 
-- To work with the **acceptance environment** (`configName = 'acc'`), you need a **valid eHealth OAuth token** linked to a **NIHDI number**.  
+- To work with the **acceptance environment** (`configName = 'acc'`), you need a **valid eHealth OAuth token with audience “nihdi-pss-api”** linked to a **NIHDI number**.  
 - If you don’t have this token yet, you must contact **eHealth**.  
 
 👉 In the meantime, you can continue integration using the **demo environment** (`configName = 'demo'`).
@@ -42,17 +42,21 @@ Full documentation is available on GitHub:
 
 ## 4. Available web components
 
-The package contains **3 web components**:  
+The package contains **4 web components**:  
 
-1. **`pss-amb-get-support-parameters`**  
+1. **`pss-amb-consent`**  
+   - The component displays two checkboxes: one mandatory for accepting the user conditions and privacy statement, and one optional for consenting to statistics collection.
+   - The mandatory consent must be given before the user can access or use any part of the PSS workflow.
+     
+2. **`pss-amb-get-support-parameters`**  
    - This is the initial component that produces an **output** (support parameters).  
    - This output must then be reused by the next two components.  
 
-2. **`pss-amb-recommendation`**  
+3. **`pss-amb-recommendation`**  
    - Consumes the output of the first component.  
    - Provides recommendations based on the given parameters.  
 
-3. **`pss-amb-summary`**  
+4. **`pss-amb-summary`**  
    - Also consumes the output of the first component.  
    - Provides a summary view based on the generated data.  
 
