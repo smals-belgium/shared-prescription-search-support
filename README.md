@@ -67,6 +67,8 @@ The package contains **4 web components**:
 ## 5. A full integration (with demo mode) on:
 [Example](https://cdn.jsdelivr.net/npm/@smals-belgium-shared/shared-nihdi-pss-web-components@latest/example_PSSa.html)
 
+---
+
 ## Documentation & Resources
 - [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_Cookbook_v1.2.pdf)
   - Domain: Antimicrobial, Radiology
