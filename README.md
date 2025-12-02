@@ -64,30 +64,8 @@ The package contains **4 web components**:
 
 ---
 
-## 5. Very simplified example usage (not working)
-
-```html
-<html>
-  <head>
-    <script type="module" src="path/to/shared-nihdi-pss-web-components.js"></script>
-  </head>
-  <body>
-    <!-- 1. Generate support parameters -->
-    <pss-amb-get-support-parameters id="supportParams"></pss-amb-get-support-parameters>
-
-    <!-- 2. Recommendations -->
-    <pss-amb-recommendation 
-      parameters="supportParams.output">
-    </pss-amb-recommendation>
-
-    <!-- 3. Summary -->
-    <pss-amb-summary 
-      parameters="supportParams.output">
-    </pss-amb-summary>
-  </body>
-</html>
-```
-
+## 5. A full integration (with demo mode) on:
+[Example](https://cdn.jsdelivr.net/npm/@smals-belgium-shared/shared-nihdi-pss-web-components@latest/example_PSSa.html)
 
 ## Documentation & Resources
 - [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_Cookbook_v1.2.pdf)
