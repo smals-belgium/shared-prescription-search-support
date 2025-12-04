@@ -96,16 +96,16 @@ To evolve the demo example into a production-ready integration:
   - Version: 1.2
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842118/PSS_API_Cookbook_v1.2.pdf)
   - Last updated: 01/04/2025
-- [PSS Integration Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Integration%20guide_Fin.pdf)
+- [PSS Integration Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_Integration_guide_v1.5.pdf)
   - Domain: Antimicrobial, Radiology
-  - Version: 1.4
+  - Version: 1.5
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842094/PSS%20Integration%20guide_Fin.pdf)
-  - Last updated: 13/05/2025
-- [PSS WebComponents Cookbook Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_WebComponents_Cookbook_v1.pdf)
+  - Last updated: 03/12/2025
+- [PSS WebComponents Cookbook Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_WebComponents_Cookbook_v1.1.pdf)
   - Domain: Antimicrobial
-  - Version: 1.0
+  - Version: 1.1
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842142/PSS_WebComponents_Cookbook_v1.pdf)
-  - Last updated: 17/09/2025
+  - Last updated: 03/12/2025
 - [PSS Indication Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/indication_codes%20(1).xlsx)
   - Domain: Antimicrobial
   - Version: 1.0
@@ -130,9 +130,9 @@ To evolve the demo example into a production-ready integration:
   - Last updated: 15/06/2023
 - Web Component PSS
   - Domain: Antimicrobial
-  - Version: 0.0.1
+  - Version: 1.0.1
   - Official link: [Link](https://www.npmjs.com/package/@smals-belgium-shared/shared-nihdi-pss-web-components)
-  - Last updated: 19/08/2025
+  - Last updated: 04/12/2025
 - Registration Criteria
   - Domain: Antimicrobial
   - Version: 1.0
