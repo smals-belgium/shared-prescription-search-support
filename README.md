@@ -67,29 +67,24 @@ The package contains **4 web components**:
 ## 5. A full integration (with demo mode) on:
 [Example](https://cdn.jsdelivr.net/npm/@smals-belgium-shared/shared-nihdi-pss-web-components@latest/example_PSSa.html)
 
-### Moving from **demo** to a real integration
+### From demo to real EPD integration (short version)
 
-To turn the demo example into a real integration:
+To evolve the demo example into a production-ready integration:
 
-1. **Use your own token**  
-   Replace the demo `getAccessToken()` with your real **eHealth OAuth token**  
-   → audience must be: `nihdi-pss-api`.
+1. **Handle the dependency properly**  
+   Import the web components, fonts and icons yourself (CDN for demo, local build for production).
 
-2. **Switch configuration**  
-   Change  
-   `configName = 'demo'` → `'acc'`  
-   (and later `'prod'` for production).
+2. **Use a real eHealth token**  
+   Replace the demo `getAccessToken()` with your IAM Connect flow returning a valid JWT (audience: `nihdi-pss-api`).
 
-3. **Match patient data**  
-   Use the `parameters` event from `pss-amb-get-support-parameters` to match PSS codes with your EPD data and prefill values.
+3. **Switch environments**  
+   `configName = "demo"` → `"acc"` → `"prod"`.
 
-4. **Forward the flow**  
-   Pass the processed `supportResponse` from the first component to:  
-   - `pss-amb-summary`  
-   - `pss-amb-recommendation`
+4. **Set the correct userLanguage**  
+   Provide `"nl"` or `"fr"` so UI labels match your EPD context.
 
-5. **Handle the final selection**  
-   Listen to `userConclusionSubmitted` to store the selected support option and (if present) the related `medicationLine`.
+5. **Connect with your EPD data**  
+   Use the `parameters` event to match PSS codes with patient data, pass the resulting `supportResponse` to the summary and recommendation components, and handle `userConclusionSubmitted` to store the final recommendation.
 
 ➡️ **More detailed instructions can be found in the Web Components Cookbook.**
 
