@@ -106,11 +106,11 @@ To evolve the demo example into a production-ready integration:
   - Version: 1.1
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842142/PSS_WebComponents_Cookbook_v1.pdf)
   - Last updated: 03/12/2025
-- [PSS Indication Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/indication_codes%20(1).xlsx)
+- [PSS Indication Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/indication_codes_v1.1.xlsx)
   - Domain: Antimicrobial
-  - Version: 1.0
+  - Version: 1.1
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/476131352/indication_codes.xlsx)
-  - Last updated: 04/07/2025
+  - Last updated: 05/12/2025
 - API PSS 
   - Domain: Antimicrobial, Radiology
   - Version: 1.0
