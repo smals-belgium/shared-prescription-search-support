@@ -135,6 +135,6 @@ To evolve the demo example into a production-ready integration:
   - Last updated: 04/12/2025
 - Registration Criteria
   - Domain: Antimicrobial
-  - Version: 1.0
-  - Official link: [Published on RIZIV website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.riziv.fgov.be%2FSiteCollectionDocuments%2FPSS_Antimicrobial_Criteria_list_for_software_registration_Release_Version1_0.xlsx&data=05%7C02%7Cjeroen.dewilde%40riziv-inami.fgov.be%7C29c54d202af548bbacdb08dd9e0ca488%7C66c008a4b56549a993c9c1e64cad2e11%7C0%7C1%7C638840499977060738%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=S%2B1fqPZ8FWdWXEj2b0l89E1%2FvNpfEzHMp3UVYpEAQi0%3D&reserved=0)
-  - Last updated: 28/05/2025
+  - Version: 1.5
+  - Official link: [Link](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Antimicrobial%20-%20Criteria%20list%20for%20software%20registration%20-Release%20Version%201.5.xlsx)
+  - Last updated: 08/12/2025
