@@ -111,6 +111,14 @@ To evolve the demo example into a production-ready integration:
   - Version: 1.1
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/476131352/indication_codes.xlsx)
   - Last updated: 05/12/2025
+- [PSS Respiratory Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/Codeboek_Luchtweginfecties%20Versie%203.0%20%20%20.xlsx)
+  - Domain: Antimicrobial
+  - Version: 3.0
+  - Last updated: 18/02/2026
+- [PSS Urinary Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/Codeboek_Urineweginfecties%20Versie%203.0.xlsx)
+  - Domain: Antimicrobial
+  - Version: 3.0
+  - Last updated: 18/02/2026
 - API PSS 
   - Domain: Antimicrobial, Radiology
   - Version: 1.0
