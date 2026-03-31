@@ -144,5 +144,5 @@ To evolve the demo example into a production-ready integration:
 - Registration Criteria
   - Domain: Antimicrobial
   - Version: 1.6
-  - Official link: [Link](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS%20Antimicrobial%20-%20Criteria%20list%20for%20software%20registration%20-Release%20Version%201.6.xlsx)
+  - Official link: [Link](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSSa_Criteria_list_for_software_registration_v1.6.xlsx)
   - Last updated: 31/03/2026
