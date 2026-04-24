@@ -119,6 +119,10 @@ To evolve the demo example into a production-ready integration:
   - Domain: Antimicrobial
   - Version: 3.0
   - Last updated: 18/02/2026
+- [PSS API ErrorCodes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_ErrorCodes.xlsb.xlsx)
+  - Domain: Antimicrobial, Radiology
+  - Version: 1.0
+  - Last updated: 06/03/2026 
 - API PSS 
   - Domain: Antimicrobial, Radiology
   - Version: 1.0
