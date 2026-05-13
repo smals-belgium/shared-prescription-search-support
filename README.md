@@ -91,9 +91,9 @@ To evolve the demo example into a production-ready integration:
 ---
 
 ## Documentation & Resources
-- [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_Cookbook_v1.2.pdf)
+- [PSS API Cookbook](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_Cookbook_v1_3.pdf)
   - Domain: Antimicrobial, Radiology
-  - Version: 1.2
+  - Version: 1.3
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/471842118/PSS_API_Cookbook_v1.2.pdf)
   - Last updated: 01/04/2025
 - [PSS Integration Guide](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_Integration_guide_v1.9.pdf)
