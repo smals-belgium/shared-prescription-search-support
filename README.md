@@ -111,6 +111,14 @@ To evolve the demo example into a production-ready integration:
   - Version: 1.1
   - Official link: [Link](https://confluence.smals.be/pages/viewpage.action?pageId=460597855&spaceKey=HCHAUDIT&title=PSS%2BAntimicrobial&preview=/460597855/476131352/indication_codes.xlsx)
   - Last updated: 05/12/2025
+- Indication Codes Endpoint
+  - Domain: Antimicrobial
+  - Description: Endpoint to retrieve the list of indications available in PSS, along with their authorized codes.
+  - Official link: [Link](https://www.acc.prescriptionsearchsupport.be/v1/domains/ANTIMICROBIALS/indications/codes)
+- Indication Codes Endpoint (Excel export)
+  - Domain: Antimicrobial
+  - Description: Same as above, but returns the list of indications and authorized codes as an Excel export.
+  - Official link: [Link](https://www.acc.prescriptionsearchsupport.be/v1/domains/ANTIMICROBIALS/indications/codes/excel)
 - [PSS Respiratory Codes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/Codeboek_Luchtweginfecties%20Versie%203.0%20%20%20.xlsx)
   - Domain: Antimicrobial
   - Version: 3.0
@@ -119,6 +127,14 @@ To evolve the demo example into a production-ready integration:
   - Domain: Antimicrobial
   - Version: 3.0
   - Last updated: 18/02/2026
+- Support Parameters / Variables Codes Endpoint
+  - Domain: Antimicrobial
+  - Description: Endpoint to retrieve the list of support parameters and patient variables available in PSS, along with their authorized codes.
+  - Official link: [Link](https://www.acc.prescriptionsearchsupport.be/v1/domains/ANTIMICROBIALS/variables/codes)
+- Support Parameters / Variables Codes Endpoint (Excel export)
+  - Domain: Antimicrobial
+  - Description: Same as above, but returns the list of support parameters and variables as an Excel export.
+  - Official link: [Link](https://www.acc.prescriptionsearchsupport.be/v1/domains/ANTIMICROBIALS/variables/codes/excel)
 - [PSS API ErrorCodes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_ErrorCodes.xlsb.xlsx)
   - Domain: Antimicrobial, Radiology
   - Version: 1.0
