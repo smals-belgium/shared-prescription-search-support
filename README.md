@@ -135,10 +135,10 @@ To evolve the demo example into a production-ready integration:
   - Domain: Antimicrobial
   - Description: Same as above, but returns the list of support parameters and variables as an Excel export.
   - Official link: [Link](https://www.acc.prescriptionsearchsupport.be/v1/domains/ANTIMICROBIALS/variables/codes/excel)
-- [PSS API ErrorCodes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_ErrorCodes.xlsb.xlsx)
+- [PSS API ErrorCodes](https://github.com/smals-belgium/shared-prescription-search-support/blob/master/PSS_API_ErrorCodes_v1.1.xlsx)
   - Domain: Antimicrobial, Radiology
-  - Version: 1.0
-  - Last updated: 06/03/2026 
+  - Version: 1.1
+  - Last updated: 08/10/2026 
 - API PSS 
   - Domain: Antimicrobial, Radiology
   - Version: 1.0
